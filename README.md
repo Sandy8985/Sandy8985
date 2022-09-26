@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sandy8985
 - 👀 I’m interested in learning and career enjoyment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science and machine learning
+- 🌱 I’m currently working on MERN Fullstack project timesheets
 - 📫 How to reach me (sandeepkumararisella8@gmail.com)
 
 <!---
