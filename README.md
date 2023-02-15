@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandy8985
 - 👀 I’m interested in learning and career enjoyment
-- 🌱 I’m currently working on MERN Fullstack project timesheets
+- 🌱 I’m currently working on MERN Fullstack
 - 📫 How to reach me (sandeepkumararisella8@gmail.com)
 
 <!---
